@@ -78,7 +78,7 @@
 
   "tutorial_return_title": "Return Screen Guide",
   "tutorial_return_content": "🌟 Send 2 or more cats of the same rarity (with Intimacy, Happiness, and Energy all 90+) to summon a higher rarity cat! Select cats and tap \"Return to Fairy World\" ✨",
-  "tutorial_return_bullet_1": "🎲 Chance to summon a higher rarity cat: 2 cats(40%) / 3 cats(60%) / 4 cats(80%) / 5 cats(100% guaranteed!)",
+  "tutorial_return_bullet_1": "🎲 Chance to summon a higher rarity cat: 2 cats(40%) / 3 cats(60%) / 4 cats(80%) / 5 cats(100% guaranteed!) Up to +8% level bonus!",
   "tutorial_return_bullet_2": "💰 Don't worry if you fail! You get magic power (C:20 / UC:80 / R:200 / SR:400 / UR:600)",
   "tutorial_return_bullet_3": "📋 How to select cats: 1. Tap a rarity tab → 2. Select 2~5 cats → 3. Check success chance → 4. Tap \"Return to Fairy World\"!",
   "tutorial_return_hint": "💡 Tip 1: 5 cats = 100% success!\n💡 Tip 2: Higher rarity cats are harder to collect, so think carefully!\n💡 Tip 3: Selected cats disappear whether you succeed or fail",
@@ -322,6 +322,8 @@
   "return_result_new_cat": "New {rarity} grade cat!",
   "return_result_success_message": "Sent {count} cats to Fairy World\nReceived {reward} Magic Power!",
   "return_result_failure_message": "The cats are living happily\nin the Fairy World\n\nReceived {reward} Magic Power!",
+  "return_label_level_bonus": "Level Bonus +{bonus}%",
+  "return_result_level_bonus": "Level Bonus +{bonus}% applied (Total {total}%)",
   "return_button_confirm": "OK",
   "return_error_perform": "Return execution error: {error}",
   "return_error_cat_data": "Cat data loading failed",

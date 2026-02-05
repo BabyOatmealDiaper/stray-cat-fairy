@@ -78,7 +78,7 @@
 
   "tutorial_return_title": "帰還画面ガイド",
   "tutorial_return_content": "🌟 親密度・幸福度・エネルギーが全部90以上の同じレア度の猫ちゃん2匹以上を返すと、もっと高いレア度の猫ちゃんが来るよ! 猫ちゃんを選んで「妖精界へ帰還」ボタンを押してね ✨",
-  "tutorial_return_bullet_1": "🎲 高いレア度の猫ちゃんが来る確率: 2匹(40%) / 3匹(60%) / 4匹(80%) / 5匹(100% 確実!)",
+  "tutorial_return_bullet_1": "🎲 高いレア度の猫ちゃんが来る確率: 2匹(40%) / 3匹(60%) / 4匹(80%) / 5匹(100% 確実!) レベルに応じて最大+8%ボーナス!",
   "tutorial_return_bullet_2": "💰 失敗しても大丈夫! 魔力がもらえるよ (C:20 / UC:80 / R:200 / SR:400 / UR:600)",
   "tutorial_return_bullet_3": "📋 猫ちゃんの選び方: 1. レア度タブを選ぶ → 2. 2〜5匹選ぶ → 3. 成功確率を見る → 4. 「妖精界へ帰還」ボタン!",
   "tutorial_return_hint": "💡 ヒント1: 5匹集めれば100%成功だよ!\n💡 ヒント2: 高いレア度ほど集めにくいから慎重にね!\n💡 ヒント3: 選んだ猫ちゃんは成功しても失敗してもいなくなるよ",
@@ -322,6 +322,8 @@
   "return_result_new_cat": "新しい{rarity}級猫ちゃん!",
   "return_result_success_message": "{count}匹を妖精界に送って\n魔力{reward}を受け取りました!",
   "return_result_failure_message": "猫ちゃんたちは妖精界で\n幸せに暮らしています\n\n魔力{reward}を受け取りました!",
+  "return_label_level_bonus": "レベルボーナス +{bonus}%",
+  "return_result_level_bonus": "レベルボーナス +{bonus}%適用 (合計 {total}%)",
   "return_button_confirm": "確認",
   "return_error_perform": "帰還実行中にエラーが発生しました: {error}",
   "return_error_cat_data": "猫ちゃんデータ読み込み失敗",

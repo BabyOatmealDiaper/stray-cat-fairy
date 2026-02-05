@@ -78,7 +78,7 @@
 
   "tutorial_return_title": "귀환 화면 가이드",
   "tutorial_return_content": "🌟 친밀도, 행복도, 에너지가 모두 90 이상인 같은 희귀도 고양이 2마리부터 돌려보내면 더 높은 등급의 고양이가 소환! 고양이를 선택하고 \"요정계로 귀환\" 버튼을 눌러요 ✨",
-  "tutorial_return_bullet_1": "🎲 높은 등급의 고양이 소환 확률: 2마리(40%) / 3마리(60%) / 4마리(80%) / 5마리(100% 확정!)",
+  "tutorial_return_bullet_1": "🎲 높은 등급의 고양이 소환 확률: 2마리(40%) / 3마리(60%) / 4마리(80%) / 5마리(100% 확정!) 레벨에 따라 최대 +8% 보너스!",
   "tutorial_return_bullet_2": "💰 실패해도 괜찮아요! 마법력 보상 (C:20 / UC:80 / R:200 / SR:400 / UR:600)",
   "tutorial_return_bullet_3": "📋 고양이 선택 방법: 1. 희귀도 탭 선택 → 2. 2~5마리 선택 → 3. 성공 확률 확인 → 4. \"요정계로 귀환\" 버튼!",
   "tutorial_return_hint": "💡 Tip 1: 5마리를 모으면 100% 성공해요!\n💡 Tip 2: 높은 등급일수록 모으기 어려우니 신중하게!\n💡 Tip 3: 선택한 고양이는 성공/실패 모두 사라져요",
@@ -322,6 +322,8 @@
   "return_result_new_cat": "새로운 {rarity}급 고양이!",
   "return_result_success_message": "{count}마리를 요정계로 보내고\n마법력 {reward}을 받았습니다!",
   "return_result_failure_message": "고양이들이 요정계에서\n행복하게 지내고 있어요\n\n마법력 {reward}을 받았습니다!",
+  "return_label_level_bonus": "레벨 보너스 +{bonus}%",
+  "return_result_level_bonus": "레벨 보너스 +{bonus}% 적용 (총 {total}%)",
   "return_button_confirm": "확인",
   "return_error_perform": "귀환 실행 중 오류가 발생했습니다: {error}",
   "return_error_cat_data": "고양이 데이터 로딩 실패",
